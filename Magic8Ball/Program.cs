@@ -7,6 +7,7 @@ namespace Magic8Ball
         static void Main(string[] args)
         {
             Console.WriteLine("Ask me your question child");
+            Console.ReadLine();
         }
     }
 }
